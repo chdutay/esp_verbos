@@ -1,0 +1,211 @@
+{
+    "verbos": [
+    {
+        "verbo": "zurriagar",
+        "perfecto": {
+            "futuro": {
+                "yo": "habré zurriagado",
+                "tú": "habrás zurriagado",
+                "nosotros": "habremos zurriagado",
+                "vosotros": "habréis zurriagado",
+                "él\/ella\/Ud.": "habrá zurriagado",
+                "ellos\/ellas\/Uds.": "habrán zurriagado"
+            },
+            "pasado": {
+                "yo": "había zurriagado",
+                "tú": "habías zurriagado",
+                "nosotros": "habíamos zurriagado",
+                "vosotros": "habíais zurriagado",
+                "él\/ella\/Ud.": "había zurriagado",
+                "ellos\/ellas\/Uds.": "habían zurriagado"
+            },
+            "presente": {
+                "yo": "he zurriagado",
+                "tú": "has zurriagado",
+                "nosotros": "hemos zurriagado",
+                "vosotros": "habéis zurriagado",
+                "él\/ella\/Ud.": "ha zurriagado",
+                "ellos\/ellas\/Uds.": "han zurriagado"
+            },
+            "preterito": {
+                "yo": "hube zurriagado",
+                "tú": "hubiste zurriagado",
+                "nosotros": "hubimos zurriagado",
+                "vosotros": "hubisteis zurriagado",
+                "él\/ella\/Ud.": "hubo zurriagado",
+                "ellos\/ellas\/Uds.": "hubieron zurriagado"
+            },
+            "condicional": {
+                "yo": "habría zurriagado",
+                "tú": "habrías zurriagado",
+                "nosotros": "habríamos zurriagado",
+                "vosotros": "habríais zurriagado",
+                "él\/ella\/Ud.": "habría zurriagado",
+                "ellos\/ellas\/Uds.": "habrían zurriagado"
+            }
+        },
+        "imperativo": {
+            "negativo": {
+                "yo": "-",
+                "Ud.": "no zurriague",
+                "tú": "no zurriagues",
+                "Uds.": "no zurriaguen",
+                "nosotros": "no zurriaguemos",
+                "vosotros": "no zurriaguéis"
+            },
+            "afirmativo": {
+                "yo": "-",
+                "Ud.": "zurriague",
+                "tú": "zurriaga",
+                "Uds.": "zurriaguen",
+                "nosotros": "zurriaguemos",
+                "vosotros": "zurriagad"
+            }
+        },
+        "indicativo": {
+            "futuro": {
+                "yo": "zurriagaré",
+                "tú": "zurriagarás",
+                "nosotros": "zurriagaremos",
+                "vosotros": "zurriagaréis",
+                "él\/ella\/Ud.": "zurriagará",
+                "ellos\/ellas\/Uds.": "zurriagarán"
+            },
+            "presente": {
+                "yo": "zurriago",
+                "tú": "zurriagas",
+                "nosotros": "zurriagamos",
+                "vosotros": "zurriagáis",
+                "él\/ella\/Ud.": "zurriaga",
+                "ellos\/ellas\/Uds.": "zurriagan"
+            },
+            "preterito": {
+                "yo": "zurriagué",
+                "tú": "zurriagaste",
+                "nosotros": "zurriagamos",
+                "vosotros": "zurriagasteis",
+                "él\/ella\/Ud.": "zurriagó",
+                "ellos\/ellas\/Uds.": "zurriagaron"
+            },
+            "imperfecto": {
+                "yo": "zurriagaba",
+                "tú": "zurriagabas",
+                "nosotros": "zurriagábamos",
+                "vosotros": "zurriagabais",
+                "él\/ella\/Ud.": "zurriagaba",
+                "ellos\/ellas\/Uds.": "zurriagaban"
+            },
+            "condicional": {
+                "yo": "zurriagaría",
+                "tú": "zurriagarías",
+                "nosotros": "zurriagaríamos",
+                "vosotros": "zurriagaríais",
+                "él\/ella\/Ud.": "zurriagaría",
+                "ellos\/ellas\/Uds.": "zurriagarían"
+            }
+        },
+        "progresivo": {
+            "futuro": {
+                "yo": "estaré zurriagando",
+                "tú": "estarás zurriagando",
+                "nosotros": "estaremos zurriagando",
+                "vosotros": "estaréis zurriagando",
+                "él\/ella\/Ud.": "estará zurriagando",
+                "ellos\/ellas\/Uds.": "estarán zurriagando"
+            },
+            "presente": {
+                "yo": "estoy zurriagando",
+                "tú": "estás zurriagando",
+                "nosotros": "estamos zurriagando",
+                "vosotros": "estáis zurriagando",
+                "él\/ella\/Ud.": "está zurriagando",
+                "ellos\/ellas\/Uds.": "están zurriagando"
+            },
+            "preterito": {
+                "yo": "estuve zurriagando",
+                "tú": "estuviste zurriagando",
+                "nosotros": "estuvimos zurriagando",
+                "vosotros": "estuvisteis zurriagando",
+                "él\/ella\/Ud.": "estuvo zurriagando",
+                "ellos\/ellas\/Uds.": "estuvieron zurriagando"
+            },
+            "imperfecto": {
+                "yo": "estaba zurriagando",
+                "tú": "estabas zurriagando",
+                "nosotros": "estábamos zurriagando",
+                "vosotros": "estabais zurriagando",
+                "él\/ella\/Ud.": "estaba zurriagando",
+                "ellos\/ellas\/Uds.": "estaban zurriagando"
+            },
+            "condicional": {
+                "yo": "estaría zurriagando",
+                "tú": "estarías zurriagando",
+                "nosotros": "estaríamos zurriagando",
+                "vosotros": "estaríais zurriagando",
+                "él\/ella\/Ud.": "estaría zurriagando",
+                "ellos\/ellas\/Uds.": "estarían zurriagando"
+            }
+        },
+        "subjuntivo": {
+            "futuro": {
+                "yo": "zurriagare",
+                "tú": "zurriagares",
+                "nosotros": "zurriagáremos",
+                "vosotros": "zurriagareis",
+                "él\/ella\/Ud.": "zurriagare",
+                "ellos\/ellas\/Uds.": "zurriagaren"
+            },
+            "presente": {
+                "yo": "zurriague",
+                "tú": "zurriagues",
+                "nosotros": "zurriaguemos",
+                "vosotros": "zurriaguéis",
+                "él\/ella\/Ud.": "zurriague",
+                "ellos\/ellas\/Uds.": "zurriaguen"
+            },
+            "imperfecto": {
+                "yo": "zurriagara",
+                "tú": "zurriagaras",
+                "nosotros": "zurriagáramos",
+                "vosotros": "zurriagarais",
+                "él\/ella\/Ud.": "zurriagara",
+                "ellos\/ellas\/Uds.": "zurriagaran"
+            },
+            "imperfecto2": {
+                "yo": "zurriagase",
+                "tú": "zurriagases",
+                "nosotros": "zurriagásemos",
+                "vosotros": "zurriagaseis",
+                "él\/ella\/Ud.": "zurriagase",
+                "ellos\/ellas\/Uds.": "zurriagasen"
+            }
+        },
+        "perfecto_subjuntivo": {
+            "futuro": {
+                "yo": "hubiere zurriagado",
+                "tú": "hubieres zurriagado",
+                "nosotros": "hubiéremos zurriagado",
+                "vosotros": "hubiereis zurriagado",
+                "él\/ella\/Ud.": "hubiere zurriagado",
+                "ellos\/ellas\/Uds.": "hubieren zurriagado"
+            },
+            "pasado": {
+                "yo": "hubiera zurriagado",
+                "tú": "hubieras zurriagado",
+                "nosotros": "hubiéramos zurriagado",
+                "vosotros": "hubierais zurriagado",
+                "él\/ella\/Ud.": "hubiera zurriagado",
+                "ellos\/ellas\/Uds.": "hubieran zurriagado"
+            },
+            "presente": {
+                "yo": "haya zurriagado",
+                "tú": "hayas zurriagado",
+                "nosotros": "hayamos zurriagado",
+                "vosotros": "hayáis zurriagado",
+                "él\/ella\/Ud.": "haya zurriagado",
+                "ellos\/ellas\/Uds.": "hayan zurriagado"
+            }
+        }
+    }
+]
+}

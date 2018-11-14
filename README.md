@@ -1,17 +1,39 @@
-# Verbos en español y sus conjugaciones
->Verbos en español con sus conjugaciones, recopilados de varias páginas web, en formato PostgreSQL y json 
+# verbos-app
 
-Para armar esta base de datos de conjugaciones de verbos partí de varias listas de verbos en Internet como [helloworld.com.es](http://www.helloworld.com.es/english/quick%20reference/verbs/SpanishVerbList.htm), la mayor tomada del proyecto SpanishJS de @damiancipolat con más de 15 mil palabras, luego probé cada palabra contra sitios como [spanishdict](http://www.spanishdict.com/)  de donde tomé las conjugaciones haciendo webscraping
+> A Vue.js project
 
-Hecha un ojo a la [guía para contribuir](CONTRIBUTING.md) antes de reportar algún error.
+## Beautify
 
-LICENCIA
-------------
-Comparto estos datos recopilados bajo una licencia [CC by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+npm -g install js-beautify
+npm install -g vue-beautify
+vue-beautify ./src/*.vue         -r -S=keep
 
+## Build Setup
 
-¿Falta agún verbo? ¿Quieres contribuir? 
-------------
-Mira [cómo contribuir](CONTRIBUTING.md).
+``` bash
+# install dependencies
+npm install
 
+# serve app with hot reload at localhost:8080
+npm run dev
 
+# serve api data with hot reload at localhost:3000
+npm run api
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
